@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are a few of the langauges I have worked with on gitlab! Additionally, most of my work is on self-hosted git platforms.
+Here are a few of the langauges I have worked with on github! Additionally, most of my work is on self-hosted git platforms.
 
 ![Top Langs](https://github-readme-stats-28je.vercel.app/api/top-langs/?username=sjacobflaherty&langs_count=9)
 
