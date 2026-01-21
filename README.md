@@ -7,7 +7,7 @@ Here are a few of the langauges I have worked with on github! Additionally, most
 
 Also, I'm typically not on github unless I'm working on a team that uses it. Checkout my gitlab activity also!
 
-![GitLab Activity](gitlab-activity.svg) 
+![GitLab Activity](gitlab-activity.svg?v=1768960628) 
 
 
 <!--
