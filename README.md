@@ -5,8 +5,9 @@ Here are a few of the langauges I have worked with on github! Additionally, most
 ![Top Langs](https://github-readme-stats-28je.vercel.app/api/top-langs/?username=sjacobflaherty&langs_count=9)
 
 
-Also, I'm typically not on github unless I'm working on a team that uses it. Checkout my gitlab activity also!
+Do people read readme's and github activity trackers? Who's to say. But in a fit of FIMO, I created a script that uploads an svg of my self-hosted gitlab activity. Check it out!
 
+## Gitlab Activity
 ![GitLab Activity](gitlab-activity.svg?v=1768960628) 
 
 
