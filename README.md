@@ -8,7 +8,7 @@ Here are a few of the langauges I have worked with on github! Additionally, most
 Do people read readme's and github activity trackers? Who's to say. But in a fit of FOMO, I created a script that uploads an svg of my self-hosted gitlab activity. Check it out!
 
 #### Gitlab Activity
-![GitLab Activity](gitlab-activity.svg?v=1770015608) 
+![GitLab Activity](gitlab-activity.svg?v=1770620408) 
 
 
 <!--
